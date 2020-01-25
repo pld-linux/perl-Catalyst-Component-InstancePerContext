@@ -4,7 +4,6 @@
 
 %define		pdir	Catalyst
 %define		pnam	Component-InstancePerContext
-%include	/usr/lib/rpm/macros.perl
 Summary:	Catalyst::Component::InstancePerContext - Return a new instance a component on each request
 Name:		perl-Catalyst-Component-InstancePerContext
 Version:	0.001001
